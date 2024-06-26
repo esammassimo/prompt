@@ -1,7 +1,7 @@
 !pip install openai
 
 import openai
-openai.api_key = "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"
+openai.api_key = ""
 
 model_engine = "text-davinci-003"
 while True:
